@@ -1,0 +1,114 @@
+body {
+    background-color: #505050;
+    width: 1620px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.up {
+    height: 130px;
+    width: 1500px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px black;
+    background-color: #909090;
+}
+
+header img.logo {
+    height: 110px;
+    margin: 10px 0 0 10px;
+}
+
+.reload {
+    width: 20px;
+    float: right;
+    margin: 10px 10px 0px 0px;
+}
+
+.close {
+    width: 20px;
+    float: right;
+    margin: 100px -20px 0px 0px;
+}
+
+.loopa {
+    width: 220px;
+    float: right;
+    margin: 30px 20px 0px 0px;
+}
+
+.leftside {
+    height: 450px;
+    width: 165px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px black;
+    background-color: #909090;
+    float: left;
+    margin: 26px 0 0 90px;
+}
+
+.redeye {
+    border: 5px solid red;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    width: 70px;
+    margin: 10px 0px 0 0px;
+}
+
+.navi {
+    width: 70px;
+    margin: 10px 0px 0 0px;
+}
+
+.cluster {
+    margin: 10px 0px 0px 0px;
+}
+
+.centerside {
+    height: 595px;
+    width: 1050px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px black;
+    background-color: #909090;
+    float: left;
+    margin: 0px 0 0 30px;
+}
+
+.greenbox {
+    height: 165px;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px black;
+    background-color: #77dd77;
+    float: left;
+    margin: -70px 0px -80px 0px;
+    font-family: verdana;
+}
+
+.rightside {
+    height: 450px;
+    width: 165px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px black;
+    background-color: #909090;
+    float: left;
+    margin: 0px 0 0 30px;
+}
+
+.entrez {
+    font-family: serif;
+    font-family: Georgia;
+    font-size: 30px;
+}
+
+.ordinateurs {
+    text-shadow: 4px 4px 6px red;
+}
+
+.textbox {
+    margin: 10px 0 0 10px;
+    width: 73%;
+}
+
+.button {
+    margin: 10px 0 0 10px;
+}

@@ -1,0 +1,27 @@
+body {background-color: #E6E6FA;}
+
+.imgCenter { text-align:center;}
+
+@media screen and (max-width: 1250px) {  
+    td span{font-size: 15px;}
+    td sub, sup{font-size: 8px;}
+    img {height: 150px}
+    }
+    
+@media screen and (max-width: 990px) { 
+    td span{font-size: 10px;}
+    td sub, sup{font-size: 5px;}
+    img {height: 100px}
+    }
+
+    @media screen and (max-height: 950px) {  
+        td span{font-size: 15px;}
+        td sub, sup{font-size: 8px;}
+        img {height: 150px}
+        }
+        
+    @media screen and (max-height: 850px) { 
+        td span{font-size: 10px;}
+        td sub, sup{font-size: 5px;}
+        img {height: 100px}
+        }
